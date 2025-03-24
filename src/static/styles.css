@@ -74,20 +74,6 @@ section h3 {
   margin-bottom: 8px;
 }
 
-.activity-card ul {
-  margin-top: 10px;
-  padding-left: 20px;
-  list-style-type: disc;
-  max-height: 150px; /* Increase max height */
-  overflow-y: auto; /* Add scroll if overflow */
-  border-top: 1px solid #ddd; /* Add top border */
-  padding-top: 10px; /* Add padding to top */
-}
-
-.activity-card ul li {
-  margin-bottom: 5px; /* Add margin to list items */
-}
-
 .form-group {
   margin-bottom: 15px;
 }
